@@ -1435,8 +1435,8 @@ ol ol {
 }
 .list-inline > li {
   display: inline-block;
-  padding-right: 15px;
-  padding-left: 95px;
+  padding-right: 25px;
+  padding-left: 135px;
   justify-content: center;
 }
 dl {

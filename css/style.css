@@ -1563,8 +1563,8 @@ section#contact {
     background-image: url(../img/backgrounds/contact-img.png);
     background-position: center;
     background-size: cover;
-    padding-bottom: 110px;
-    min-height: 900px;
+    padding-bottom: 50px;
+    min-height: 100px;
    box-shadow: none !important;
   margin-bottom: 0px !important;
 }
